@@ -4,6 +4,6 @@ pandas==2.0.3
 numpy==1.24.4
 streamlit==1.31.0
 pytest==7.4.2
-shap==0.47.0
+shap==0.44.1
 lime==0.2.0.1
 
